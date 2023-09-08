@@ -5739,10 +5739,10 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   "version" "17.0.2"
 
-"react-native-webview@^13.5.1":
-  "integrity" "sha512-SZQJqFUMxYYj1xYWy1Z48WcHpqOGvbXKS5R1cnaLQY/JxefS+1NOVMqWxy1Zwmc128vqtRklES8l9Jus8tKSLg=="
-  "resolved" "https://registry.npmjs.org/react-native-webview/-/react-native-webview-13.5.1.tgz"
-  "version" "13.5.1"
+"react-native-webview@^13.6.0":
+  "integrity" "sha512-KapVfHEj60e+2QplhqoCMdqW4vDzzvLS3YasfjVoMV4qhsZ3padncMEqOHX6AY4FIAdRzAxG0JQs+kXczAPYeQ=="
+  "resolved" "https://registry.npmjs.org/react-native-webview/-/react-native-webview-13.6.0.tgz"
+  "version" "13.6.0"
   dependencies:
     "escape-string-regexp" "2.0.0"
     "invariant" "2.2.4"
